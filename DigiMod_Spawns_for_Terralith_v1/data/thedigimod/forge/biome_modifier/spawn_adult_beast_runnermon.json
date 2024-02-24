@@ -1,0 +1,29 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:taiga",
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    "minecraft:warped_forest",
+    "terralith:ashen_savanna",
+    "terralith:birch_taiga",
+    "terralith:blooming_plateau",
+    "terralith:bryce_canyon",
+    "terralith:cold_shrubland",
+    "terralith:hot_shrubland",
+    "terralith:lavender_forest",
+    "terralith:rocky_shrubland",
+    "terralith:shield",
+    "terralith:steppe",
+    "terralith:temperate_highlands",
+    "terralith:valley_clearing",
+    "terralith:yosemite_cliffs",
+    "terralith:yosemite_lowlands"
+  ],
+  "spawners": {
+    "type": "thedigimod:runnermon",
+    "weight": 20,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}

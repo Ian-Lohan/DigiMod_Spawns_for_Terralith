@@ -1,0 +1,34 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:savanna",
+    "minecraft:windswept_hills",
+    "minecraft:windswept_gravelly_hills",
+    "minecraft:windswept_forest",
+    "minecraft:grove",
+    "minecraft:stony_peaks",
+    "terralith:ancient_sands",
+    "terralith:arid_highlands",
+    "terralith:ashen_savanna",
+    "terralith:basalt_cliffs",
+    "terralith:caldera",
+    "terralith:desert_canyon",
+    "terralith:desert_spires",
+    "terralith:fractured_savanna",
+    "terralith:haze_mountain",
+    "terralith:highlands",
+    "terralith:painted_mountains",
+    "terralith:rocky_mountains",
+    "terralith:savanna_badlands",
+    "terralith:scarlet_mountains",
+    "terralith:stony_spires",
+    "terralith:volcanic_peaks",
+    "terralith:windswept_spires"
+  ],
+  "spawners": {
+    "type": "thedigimod:airdramon",
+    "weight": 20,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}

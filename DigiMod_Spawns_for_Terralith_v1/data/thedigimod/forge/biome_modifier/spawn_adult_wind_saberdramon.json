@@ -1,0 +1,30 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:windswept_hills",
+    "minecraft:windswept_gravelly_hills",
+    "minecraft:windswept_forest",
+    "minecraft:grove",
+    "minecraft:stony_peaks",
+    "minecraft:dark_forest",
+    "terralith:arid_highlands",
+    "terralith:emerald_peaks",
+    "terralith:haze_mountain",
+    "terralith:painted_mountains",
+    "terralith:rocky_mountains",
+    "terralith:sandstone_valley",
+    "terralith:savanna_slopes",
+    "terralith:shrubland",
+    "terralith:skylands_autumn",
+    "terralith:valley_clearing",
+    "terralith:volcanic_crater",
+    "terralith:volcanic_peaks",
+    "terralith:windswept_spires"
+  ],
+  "spawners": {
+    "type": "thedigimod:saberdramon",
+    "weight": 20,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}

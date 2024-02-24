@@ -1,0 +1,33 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:taiga",
+    "minecraft:old_growth_spruce_taiga",
+    "minecraft:old_growth_pine_taiga",
+    "minecraft:snowy_taiga",
+    "minecraft:grove",
+    "terralith:alpine_grove",
+    "terralith:alpine_highlands",
+    "terralith:hot_shrubland",
+    "terralith:moonlight_grove",
+    "terralith:sakura_grove",
+    "terralith:sakura_valley",
+    "terralith:shield_clearing",
+    "terralith:shield",
+    "terralith:shrubland",
+    "terralith:siberian_grove",
+    "terralith:siberian_taiga",
+    "terralith:skylands_autumn",
+    "terralith:snowy_shield",
+    "terralith:valley_clearing",
+    "terralith:warped_mesa",
+    "terralith:wintry_forest",
+    "terralith:yosemite_lowlands"
+  ],
+  "spawners": {
+    "type": "thedigimod:centalmon",
+    "weight": 20,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}

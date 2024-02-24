@@ -1,0 +1,29 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    "minecraft:warped_forest",
+    "terralith:alpha_islands",
+    "terralith:alpha_islands_winter",
+    "terralith:alpine_grove",
+    "terralith:blooming_plateau",
+    "terralith:blooming_valley",
+    "terralith:brushland",
+    "terralith:bryce_canyon",
+    "terralith:cloud_forest",
+    "terralith:forested_highlands",
+    "terralith:gravel_desert",
+    "terralith:ice_marsh",
+    "terralith:lavender_forest",
+    "terralith:red_oasis",
+    "terralith:shield_clearing",
+    "terralith:shield"
+  ],
+  "spawners": {
+    "type": "thedigimod:bearmon",
+    "weight": 25,
+    "minCount": 4,
+    "maxCount": 8
+  }
+}

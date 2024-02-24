@@ -1,0 +1,27 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:savanna",
+    "minecraft:savanna_plateau",
+    "minecraft:windswept_savanna",
+    "minecraft:badlands",
+    "minecraft:eroded_badlands",
+    "minecraft:wooded_badlands",
+    "minecraft:nether_wastes",
+    "minecraft:crimson_forest",
+    "terralith:ancient_sands",
+    "terralith:ashen_savanna",
+    "terralith:fractured_savanna",
+    "terralith:painted_mountains",
+    "terralith:savanna_badlands",
+    "terralith:savanna_slopes",
+    "terralith:scarlet_mountains",
+    "terralith:volcanic_crater"
+  ],
+  "spawners": {
+    "type": "thedigimod:growlmondata",
+    "weight": 20,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}

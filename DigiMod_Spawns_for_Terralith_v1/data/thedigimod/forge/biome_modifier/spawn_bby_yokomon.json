@@ -1,0 +1,30 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:forest",
+    "minecraft:meadow",
+    "minecraft:windswept_hills",
+    "minecraft:windswept_gravelly_hills",
+    "minecraft:windswept_forest",
+    "minecraft:grove",
+    "minecraft:stony_peaks",
+    "terralith:arid_highlands",
+    "terralith:desert_canyon",
+    "terralith:emerald_peaks",
+    "terralith:haze_mountain",
+    "terralith:painted_mountains",
+    "terralith:rocky_mountains",
+    "terralith:savanna_slopes",
+    "terralith:skylands_autumn",
+    "terralith:valley_clearing",
+    "terralith:volcanic_peaks",
+    "terralith:white_mesa",
+    "terralith:windswept_spires"
+  ],
+  "spawners": {
+    "type": "thedigimod:yokomon",
+    "weight": 30,
+    "minCount": 6,
+    "maxCount": 10
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:desert",
+    "minecraft:badlands",
+    "minecraft:eroded_badlands",
+    "minecraft:wooded_badlands",
+    "minecraft:stony_peaks",
+    "minecraft:dripstone_caves",
+    "minecraft:lush_caves",
+    "minecraft:deep_dark",
+    "minecraft:soul_sand_valley",
+    "minecraft:basalt_deltas",
+    "terralith:ancient_sands",
+    "terralith:ashen_savanna",
+    "terralith:desert_canyon",
+    "terralith:desert_spires",
+    "terralith:fractured_savanna",
+    "terralith:gravel_desert",
+    "terralith:lush_desert",
+    "terralith:painted_mountains",
+    "terralith:sandstone_valley",
+    "terralith:savanna_badlands",
+    "terralith:savanna_slopes",
+    "terralith:stony_spires",
+    "terralith:yosemite_cliffs"
+  ],
+  "spawners": {
+    "type": "thedigimod:coredramongreen",
+    "weight": 20,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}

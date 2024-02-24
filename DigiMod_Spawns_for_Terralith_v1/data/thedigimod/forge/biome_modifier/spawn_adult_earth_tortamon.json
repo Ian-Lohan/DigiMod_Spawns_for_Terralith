@@ -1,0 +1,31 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:desert",
+    "minecraft:badlands",
+    "minecraft:eroded_badlands",
+    "minecraft:wooded_badlands",
+    "minecraft:stony_peaks",
+    "minecraft:dripstone_caves",
+    "minecraft:lush_caves",
+    "minecraft:deep_dark",
+    "minecraft:soul_sand_valley",
+    "minecraft:basalt_deltas",
+    "terralith:bryce_canyon",
+    "terralith:caldera",
+    "terralith:desert_canyon",
+    "terralith:desert_oasis",
+    "terralith:granite_cliffs",
+    "terralith:gravel_beach",
+    "terralith:lush_desert",
+    "terralith:red_oasis",
+    "terralith:sandstone_valley",
+    "terralith:yellowstone"
+  ],
+  "spawners": {
+    "type": "thedigimod:tortamon",
+    "weight": 20,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}

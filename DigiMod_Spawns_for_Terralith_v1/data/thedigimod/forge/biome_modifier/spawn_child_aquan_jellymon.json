@@ -1,0 +1,41 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:snowy_plains",
+    "minecraft:ice_spikes",
+    "minecraft:snowy_taiga",
+    "minecraft:grove",
+    "minecraft:snowy_slopes",
+    "minecraft:frozen_peaks",
+    "minecraft:jagged_peaks",
+    "minecraft:river",
+    "minecraft:frozen_river",
+    "minecraft:beach",
+    "minecraft:snowy_beach",
+    "minecraft:stony_shore",
+    "minecraft:warm_ocean",
+    "minecraft:lukewarm_ocean",
+    "minecraft:deep_lukewarm_ocean",
+    "minecraft:ocean",
+    "minecraft:deep_ocean",
+    "minecraft:cold_ocean",
+    "minecraft:deep_cold_ocean",
+    "minecraft:frozen_ocean",
+    "minecraft:deep_frozen_ocean",
+    "terralith:warm_river",
+    "terralith:desert_oasis",
+    "terralith:red_oasis",
+    "terralith:gravel_beach",
+    "terralith:mirage_isles",
+    "terralith:moonlight_grove",
+    "terralith:orchid_swamp",
+    "terralith:snowy_cherry_grove",
+    "terralith:snowy_badlands"
+  ],
+  "spawners": {
+    "type": "thedigimod:jellymon",
+    "weight": 25,
+    "minCount": 4,
+    "maxCount": 8
+  }
+}

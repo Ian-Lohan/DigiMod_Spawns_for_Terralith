@@ -1,0 +1,33 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:forest",
+    "minecraft:meadow",
+    "minecraft:savanna",
+    "minecraft:mushroom_fields",
+    "minecraft:the_end",
+    "minecraft:end_highlands",
+    "minecraft:end_midlands",
+    "minecraft:small_end_islands",
+    "minecraft:end_barrens",
+    "terralith:alpha_islands",
+    "terralith:ancient_sands",
+    "terralith:ashen_savanna",
+    "terralith:desert_canyon",
+    "terralith:fractured_savanna",
+    "terralith:hot_shrubland",
+    "terralith:lush_desert",
+    "terralith:sandstone_valley",
+    "terralith:savanna_badlands",
+    "terralith:savanna_slopes",
+    "terralith:volcanic_crater",
+    "terralith:volcanic_peaks",
+    "terralith:yellowstone"
+  ],
+  "spawners": {
+    "type": "thedigimod:koromonb",
+    "weight": 30,
+    "minCount": 6,
+    "maxCount": 10
+  }
+}

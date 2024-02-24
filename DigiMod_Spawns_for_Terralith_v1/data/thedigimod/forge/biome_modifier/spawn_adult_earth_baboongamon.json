@@ -1,0 +1,35 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:desert",
+    "minecraft:badlands",
+    "minecraft:eroded_badlands",
+    "minecraft:wooded_badlands",
+    "minecraft:stony_peaks",
+    "minecraft:dripstone_caves",
+    "minecraft:lush_caves",
+    "minecraft:deep_dark",
+    "minecraft:soul_sand_valley",
+    "minecraft:basalt_deltas",
+    "terralith:ancient_sands",
+    "terralith:arid_highlands",
+    "terralith:bryce_canyon",
+    "terralith:desert_canyon",
+    "terralith:desert_oasis",
+    "terralith:desert_spires",
+    "terralith:gravel_desert",
+    "terralith:hot_shrubland",
+    "terralith:lush_desert",
+    "terralith:red_oasis",
+    "terralith:rocky_jungle",
+    "terralith:sandstone_valley",
+    "terralith:shrubland",
+    "terralith:white_mesa"
+  ],
+  "spawners": {
+    "type": "thedigimod:baboongamon",
+    "weight": 20,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}

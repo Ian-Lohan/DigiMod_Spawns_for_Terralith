@@ -1,0 +1,36 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:desert",
+    "minecraft:badlands",
+    "minecraft:eroded_badlands",
+    "minecraft:wooded_badlands",
+    "minecraft:stony_peaks",
+    "minecraft:dripstone_caves",
+    "minecraft:lush_caves",
+    "minecraft:deep_dark",
+    "minecraft:soul_sand_valley",
+    "minecraft:basalt_deltas",
+    "terralith:ancient_sands",
+    "terralith:basalt_cliffs",
+    "terralith:desert_canyon",
+    "terralith:desert_spires",
+    "terralith:fractured_savanna",
+    "terralith:gravel_desert",
+    "terralith:haze_mountain",
+    "terralith:lush_desert",
+    "terralith:painted_mountains",
+    "terralith:rocky_mountains",
+    "terralith:rocky_shrubland",
+    "terralith:sandstone_valley",
+    "terralith:stony_spires",
+    "terralith:white_mesa",
+    "terralith:yosemite_cliffs"
+  ],
+  "spawners": {
+    "type": "thedigimod:dracomon",
+    "weight": 25,
+    "minCount": 4,
+    "maxCount": 8
+  }
+}

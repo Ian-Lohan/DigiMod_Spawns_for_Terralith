@@ -1,0 +1,23 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    "minecraft:warped_forest",
+    "minecraft:swamp",
+    "terralith:blooming_plateau",
+    "terralith:brushland",
+    "terralith:jungle_mountains",
+    "terralith:mirage_isles",
+    "terralith:orchid_swamp",
+    "terralith:rocky_jungle",
+    "terralith:skylands_summer",
+    "terralith:tropical_jungle"
+  ],
+  "spawners": {
+    "type": "thedigimod:namakemon",
+    "weight": 20,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}

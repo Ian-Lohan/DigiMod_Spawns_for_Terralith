@@ -1,0 +1,32 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:forest",
+    "minecraft:meadow",
+    "minecraft:plains",
+    "terralith:alpha_islands_winter",
+    "terralith:alpine_grove",
+    "terralith:basalt_cliffs",
+    "terralith:blooming_plateau",
+    "terralith:brushland",
+    "terralith:bryce_canyon",
+    "terralith:cold_shrubland",
+    "terralith:frozen_cliffs",
+    "terralith:glacial_chasm",
+    "terralith:ice_marsh",
+    "terralith:moonlight_grove",
+    "terralith:shrubland",
+    "terralith:skylands_winter",
+    "terralith:snowy_badlands",
+    "terralith:shield",
+    "terralith:snowy_shield",
+    "terralith:steppe",
+    "terralith:yosemite_lowlands"
+  ],
+  "spawners": {
+    "type": "thedigimod:tsunomon",
+    "weight": 30,
+    "minCount": 6,
+    "maxCount": 10
+  }
+}

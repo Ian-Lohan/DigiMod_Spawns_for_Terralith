@@ -1,0 +1,29 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:taiga",
+    "minecraft:jungle",
+    "minecraft:flower_forest",
+    "minecraft:sparse_jungle",
+    "minecraft:bamboo_jungle",
+    "minecraft:cherry_grove",
+    "terralith:amethyst_rainforest",
+    "terralith:blooming_plateau",
+    "terralith:blooming_valley",
+    "terralith:jungle_mountains",
+    "terralith:rocky_jungle",
+    "terralith:sakura_grove",
+    "terralith:sakura_valley",
+    "terralith:skylands_spring",
+    "terralith:skylands_summer",
+    "terralith:tropical_jungle",
+    "terralith:cave/infested_caves",
+    "terralith:cave/underground_jungle"
+  ],
+  "spawners": {
+    "type": "thedigimod:exermon",
+    "weight": 20,
+    "minCount": 3,
+    "maxCount": 5
+  }
+}
